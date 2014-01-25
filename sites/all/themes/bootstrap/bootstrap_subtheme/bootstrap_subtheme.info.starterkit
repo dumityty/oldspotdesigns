@@ -1,5 +1,5 @@
-name = Oldspotdesigns
-description = Oldspotdesigns Bootstrap Sub-theme.
+name = Bootstrap Sub-theme
+description = A Bootstrap Sub-theme.
 core = 7.x
 base theme = bootstrap
 
